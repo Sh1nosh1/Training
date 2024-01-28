@@ -1,0 +1,7 @@
+D:\ОАиП\Training\bin\Debug\Training.exe.config
+D:\ОАиП\Training\bin\Debug\Training.exe
+D:\ОАиП\Training\bin\Debug\Training.pdb
+D:\ОАиП\Training\obj\Debug\Training.csproj.AssemblyReference.cache
+D:\ОАиП\Training\obj\Debug\Training.csproj.CoreCompileInputs.cache
+D:\ОАиП\Training\obj\Debug\Training.exe
+D:\ОАиП\Training\obj\Debug\Training.pdb
